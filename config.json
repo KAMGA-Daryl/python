@@ -1,0 +1,6 @@
+{
+  "server" : "smtp.gmail.com",
+  " port"  : "465",
+  "email"  : "test.send.email.darylfkamga@gmail.com",
+  "pwd"    : "kitoko57"
+}
